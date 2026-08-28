@@ -3,7 +3,7 @@ module github.com/go-ruby-nats/nats
 go 1.26.4
 
 require (
-	github.com/nats-io/nats-server/v2 v2.14.5
+	github.com/nats-io/nats-server/v2 v2.14.6
 	github.com/nats-io/nats.go v1.53.1
 )
 
